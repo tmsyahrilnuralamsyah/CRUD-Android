@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="created">Created</string>
+    <string name="no">No</string>
+    <string name="npm">NPM</string>
+    <string name="nama">Nama</string>
+    <string name="jurusan">Jurusan</string>
+</resources>
